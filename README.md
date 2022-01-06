@@ -1,4 +1,7 @@
 # SilencerPred
+
+![GitHub Logo](myImage.img)
+
 ## How to use
 ### Traing a model 
 input: data file, and target directory for the results
