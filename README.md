@@ -1,6 +1,6 @@
 # SilencerPred
 
-![GitHub Logo](myImage.img)
+![DFRE Logo](muhollandDr.png)
 
 ## How to use
 ### Traing a model 
