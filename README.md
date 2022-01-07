@@ -1,4 +1,4 @@
-# SilencerPred
+# DFRE: Dual Functional Regulatory Element
 
 ![DFRE Logo](./src/mulholland.png)
 
