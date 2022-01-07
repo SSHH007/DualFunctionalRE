@@ -1,6 +1,6 @@
 # SilencerPred
 
-![DFRE Logo](muhollandDr.png)
+![DFRE Logo](muholland.png)
 
 ## How to use
 ### Traing a model 
